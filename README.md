@@ -23,7 +23,7 @@ Tugas yang berisikan input control di implementasikan matakuliah Pemrograman Mob
  <p>val button = findViewById<Button>(R.id.button_main)</p> 
 <p>____________________________________________________________________________________________________________</p>
 📸<h1>Screenshot fitur input phone number</h1>
- ![Screenshot_2025-04-16-10-29-39-65_1b1a968fb7405ccaf33f7d150d381440](https://github.com/user-attachments/assets/3f637666-8165-42e0-86dd-20d6a1bfbf1d)
+ [Screenshot_2025-04-16-10-29-39-65_1b1a968fb7405ccaf33f7d150d381440](https://github.com/user-attachments/assets/3f637666-8165-42e0-86dd-20d6a1bfbf1d)
 
 <h1>2. Toast</h1>
 <p>menampilkan dialog pada saat mengklik tombol, kemudian hasil nya ditampilkan ActivityMain. lalu di button.</p>
