@@ -12,11 +12,11 @@ Tugas yang berisikan input control di implementasikan matakuliah Pemrograman Mob
 <p>Aplikasi android ini berisikan untuk menampilkan input phone number dan toast ketika sudah memasukan nomor telepon menggunakan kontrol input</p> 
 <p>InputPhonenumber. dan Toast.</p> 
 <p>____________________________________________________________________________________________________________</p> 
-✅ Fitur yang Diimplementasikan 
-📱 Input phone number (memasukan nomor telepon)
-🔔 Toast (memberikan notifikasi valid atau tidak nya memasukan nomor telepon)
+<p>✅ Fitur yang Diimplementasikan</p>
+<p>📱 Input phone number (memasukan nomor telepon)</p>
+<p>🔔 Toast (memberikan notifikasi valid atau tidak nya memasukan nomor telepon)</p> 
 <p>____________________________________________________________________________________________________________</p>
-🧩 Penjelasan fitur dan kode 🔍 
+<p>🧩 Penjelasan fitur dan kode 🔍</p> 
 <h1>1. Input Phone Number</h1> 
 <p>Menampilkan dialog masukan nomor, kemudian hasil nya di tampilkan ActivityMain. lalu di EditText.</p>
  <p>val MasukTelepon = findViewById<EditText>(R.id.etphoneNumber)</p> 
