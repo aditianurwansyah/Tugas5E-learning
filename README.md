@@ -27,6 +27,8 @@ Tugas yang berisikan input control di implementasikan matakuliah Pemrograman Mob
   ![56fe9256-ad93-4b06-b6dc-158a91dd80b5](https://github.com/user-attachments/assets/13c43ba9-7f34-4357-9390-e0340cfb59bd)
 
 
+ ![77f8de11-1a43-4f2c-bfe0-5cc03b072d67](https://github.com/user-attachments/assets/20f39802-8731-4a0f-b2f3-52e7ba5633d1)
+
 <h1>2. Toast</h1>
 <p>menampilkan dialog pada saat mengklik tombol, kemudian hasil nya ditampilkan ActivityMain. lalu di button.</p>
 
