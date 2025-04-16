@@ -46,9 +46,11 @@ Tugas yang berisikan input control di implementasikan matakuliah Pemrograman Mob
     }
     
 <p>________________________________________________________________________________________________________________________________________</p>
-📸<h1>Screenshot fitur pada toast</h1>
-![alt text](https://github.com/aditianurwansyah/Testing/blob/main/IMG_20250416_103014.jpg?raw=true) 
-![alt text](https://github.com/aditianurwansyah/Testing/blob/main/IMG_20250416_103039.jpg?raw=true) 
+##📸Screenshot fitur pada toast 
+
+![99ecf9cf-a6e2-495b-b059-b33134818a3d](https://github.com/user-attachments/assets/c89f4bba-a259-4fa0-8ac0-9cc7aac03853)
+
+
 <br><h1>⚒️ Teknologi yang digunakan</h1></br>  
 <p>Bahasa Pemrograman: Kotlin</p>
 <p>IDE: Android Studio</p>
