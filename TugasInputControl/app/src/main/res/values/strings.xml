@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TugasInputControl</string>
+    <string name="enter_email">Masukan email address</string>
+    <string name="enter">Masukan pesan</string>
+    <string name="button_show">Tampilkan</string>
+    <string name="phone">Masukan Nomor Telepon</string>
+    <string name="hint_phonenumber">Masukan nomor Telepon</string>
+    <string name="phonenumber_label">nomor hp</string>
+    <string name="nothing_enter">Nothing Enter</string>
+    <string name="show">show</string>
+<!--    <string-array name="labels_array">-->
+<!--        <item>Rumah</item>-->
+<!--        <item>Kerja</item>-->
+<!--        <item>mobile</item>-->
+<!--        <item>Lainnya</item>-->
+<!--    </string-array>-->
+</resources>
