@@ -51,6 +51,8 @@ Tugas yang berisikan input control di implementasikan matakuliah Pemrograman Mob
 ![99ecf9cf-a6e2-495b-b059-b33134818a3d](https://github.com/user-attachments/assets/c89f4bba-a259-4fa0-8ac0-9cc7aac03853)
 
 
+![d8421099-0d65-4d79-a336-c5d70bb056ea](https://github.com/user-attachments/assets/d5ad91da-c476-4ea7-a8d1-62ba73cef382)
+
 <br><h1>⚒️ Teknologi yang digunakan</h1></br>  
 <p>Bahasa Pemrograman: Kotlin</p>
 <p>IDE: Android Studio</p>
