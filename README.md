@@ -23,6 +23,7 @@ Tugas yang berisikan input control di implementasikan matakuliah Pemrograman Mob
  <p>val button = findViewById<Button>(R.id.button_main)</p> 
 <p>____________________________________________________________________________________________________________</p>
 📸<h1>Screenshot fitur input phone number</h1>
+![56fe9256-ad93-4b06-b6dc-158a91dd80b5](https://github.com/user-attachments/assets/13c43ba9-7f34-4357-9390-e0340cfb59bd)
 
 
 <h1>2. Toast</h1>
@@ -37,11 +38,10 @@ Tugas yang berisikan input control di implementasikan matakuliah Pemrograman Mob
                 MasukTelepon.error = "Nomor telepon tidak valid"
             }
         }
-    }
-    private fun isValidPhoneNumber(phone![56fe9256-ad93-4b06-b6dc-158a91dd80b5](https://github.com/user-attachments/assets/90a19527-bde9-4972-b107-84f04f0c02e9)
-: String): Boolean {
+    } private fun isValidPhoneNumber(phone: String): Boolean {
         return phone.matches(Regex("^\\+?[0-9]{10,15}$"))
     }
+    
 <p>________________________________________________________________________________________________________________________________________</p>
 📸<h1>Screenshot fitur pada toast</h1>
 ![alt text](https://github.com/aditianurwansyah/Testing/blob/main/IMG_20250416_103014.jpg?raw=true) 
